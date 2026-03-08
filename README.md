@@ -2,11 +2,8 @@
   <img src="14.png"/>
 </p>
 
-<p align="center">
-  <img src="Pictures/14.png" width="160"/>
-</p>
 
-# 📈 Stock Advisor System 📈
+# 📈 Stock Advisor System 📈 
 
 ![Python](https://img.shields.io/badge/Python-Application-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-GUI-41CD52?style=for-the-badge\&logo=qt\&logoColor=white)
@@ -17,68 +14,60 @@
 
 ---
 
-# 🚀 Features
+## 🚀 Features 🚀
 
-✨ Login system
-📈 Buy stocks
-📉 Sell stocks
-📊 View order history
-📂 Portfolio management
-🤖 AI chatbot assistant for financial questions
+- ✨ Login system
+- 📈 Buy stocks
+- 📉 Sell stocks
+- 📊 View order history
+- 📂 Portfolio management
+- 🤖 AI chatbot assistant for financial questions
 
 ---
 
-# 🖥 Application Screenshots
+## 🖥 App Screenshots 📸
 
-## 🔐 Login Screen
+### 🔐 Login Screen:
 
 <p align="center">
-  <img src="Pictures/login.png" width="700"/>
+  <img src="screenshots/1.jpeg" width="700"/>
 </p>
 
 ---
 
-## 🏠 Main Dashboard
+### 🏠 Main Dashboard:
 
 <p align="center">
-  <img src="Pictures/main.png" width="700"/>
+  <img src="screenshots/2.jpeg" width="700"/>
 </p>
 
 ---
 
-## 💰 Buy Stocks
+### 💰 Buy/Sell Stocks:
 
 <p align="center">
-  <img src="Pictures/buy.png" width="700"/>
+  <img src="screenshots/3.jpeg" width="700"/>
 </p>
 
 ---
 
-## 📉 Sell Stocks
+### 📂 Portfolio:
 
 <p align="center">
-  <img src="Pictures/sell.png" width="700"/>
+  <img src="screenshots/4.jpeg" width="700"/>
 </p>
 
 ---
 
-## 📂 Portfolio
+### 🤖 AI Chatbot:
 
 <p align="center">
-  <img src="Pictures/portfolio.png" width="700"/>
+  <img src="screenshots/5.jpeg" width="700"/>
 </p>
 
 ---
 
-## 🤖 AI Chatbot
-
-<p align="center">
-  <img src="Pictures/chatbot.png" width="700"/>
-</p>
-
----
-
-# 🏗 Project Structure 🏗
+## 🏗 Project Structure 🏗
 
 ```
 Stock-Advisor-Frontend
@@ -106,41 +95,39 @@ Stock-Advisor-Frontend
 
 ---
 
-# ⚙️ Installation ⚙️
+## ⚙️ Installation ⚙️
 
-Clone the repository:
+- 1. Clone the repository: 🌪️
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/Stock-Advisor-Frontend.git
 ```
 
-Enter the project folder:
+- 2. Enter the project folder: 📬
 
 ```bash
 cd Stock-Advisor-Frontend
 ```
 
-Create a virtual environment:
+- 3. Create a virtual environment: 🌍
 
 ```bash
 python -m venv venv
 ```
 
-Activate it:
-
-Windows:
+- 4. Activate it (Windows): ⚡
 
 ```bash
 venv\Scripts\activate
 ```
 
-Install dependencies:
+- 5. Install dependencies: 🛠️
 
 ```bash
 pip install PySide6
 ```
 
-Run the application:
+- 6. Run the application: 🏌️
 
 ```bash
 python Fronted/Windows/LoginWindow.py
@@ -148,13 +135,13 @@ python Fronted/Windows/LoginWindow.py
 
 ---
 
-# 💥 Technologies 💥
+## 💥 Technologies 💥
 
-* Python
-* PySide6 (Qt GUI)
-* AI Chatbot Integration
-* Vector embeddings
-* Modular GUI architecture
+* Python 🐍
+* PySide6 (Qt GUI) 🪻
+* AI Chatbot Integration 🤖
+* Vector embeddings 🏹
+* Modular GUI architecture 🪃
 
 ---
 
