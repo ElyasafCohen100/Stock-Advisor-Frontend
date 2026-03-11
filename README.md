@@ -3,7 +3,7 @@
 </p>
 
 
-# 📈 Stock Advisor System 📈 
+# 📈 Stock Advisor System 📈  
 
 ![Python](https://img.shields.io/badge/Python-Application-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-GUI-41CD52?style=for-the-badge\&logo=qt\&logoColor=white)
